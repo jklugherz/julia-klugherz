@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: "Canela Text";
+    background-color: #fffbcd;
+    display: flex;
+}
+
+#base {
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    width: 400px;
+    background-color: #ffffff;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+#menu_bar {
+    font-size: 10px;
+    padding-bottom: 30px;
+}
+
+#description {
+    font-size: 12px;
+}
